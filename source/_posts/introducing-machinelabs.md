@@ -33,6 +33,8 @@ We think Machine Learning should be simple and fun. We believe that, if we manag
 
 With MachineLabs we are building a platform that tries to solve all the problems mentioned and could probably be best described as the [CodePen](http://codepen.io/) for Machine Learning.
 
+{% asset_img "ml-preview.gif" "MachineLabs Code Editor" %}
+
 ### Run your experiments in the cloud
 
 MachineLabs enables you to write and execute your experiments right from within the browser! No installation hassle, no maintenance.
@@ -41,7 +43,14 @@ Neural net training may run for hours or even several days and you'll be able to
 
 We make sure your experiments run on blazingly fast hardware to crack real world problems!
 
-{% asset_img "ml-preview.gif" "MachineLabs Code Editor" %}
+Of course this is just getting started, in the future you'll be able to:
+
+- **Persist your trained model** - Labs will have access to a simple API to save trained models and other artifacts
+- **Build on top of other trained models** - Trained models that were exposed from another labs can be consumed to build on top of them
+- **Easy access to exciting datasets** - We'll make it simple to consume public datasets to enable people to tinker with self-driving cars and more
+- **Visualizations** - Visualizations will make it easier to understand what's going on with your machine learning code
+
+
 
 ### Sharing is caring
 
