@@ -1,0 +1,26 @@
+<footer class="container">
+    <div class="site-footer" role="contentinfo">
+        <div class="copyright left mobile-block">
+          Machine<span>Labs</span> - MachineLearning for everyone
+        </div>
+
+        <ul class="site-footer-links mobile-hidden">
+            <% for (var nav in theme.menus) { %>
+                  <%
+                    var title = theme.menus[nav].name;
+                    var href = theme.menus[nav].link;
+                    var link = "^" + href;  
+                    var target = theme.menus[nav].target;
+                  %>
+                  <li>
+                    <a href="<%- url_for(href) %>" <%if(target){%>target="<%=target%>"<%}%> title="<%= title %>"><%= title %></a>
+                  </li>
+            <% } %>
+            <li>
+              <a title="MachineLabs on Twitter" href="http://twitter.com/machinelabs_ai">
+              @MachineLabs_AI
+              </a>
+            </li>
+        </ul>
+    </div>
+</footer>

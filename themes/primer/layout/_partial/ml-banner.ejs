@@ -1,0 +1,19 @@
+<header class="ml-banner">
+  <div class="container">
+    <hgroup>
+      <h1 class="ml-logo"><a href="<%- url_for() %>" title="<%= config.title %>">Machine<span>Labs</span> Blog</a></h1>
+      <h2 class="ml-tagline">Machine Learning for everyone</h2>
+    </hgroup>
+      <nav class="ml-nav" role="navigation">
+        <% for (var nav in theme.menus) { %>
+              <%
+                var title = theme.menus[nav].name;
+                var href = theme.menus[nav].link;
+                var link = "^" + href;  
+                var target = theme.menus[nav].target;
+              %>
+              <a href="<%- url_for(href) %>" <%if(target){%>target="<%=target%>"<%}%> class="<% if (page && page.path.match(link)) { %> selected <% } %> hvr-underline-from-center" title="<%= title %>"><%= title %></a>
+        <% } %>
+      </nav>
+  </div>
+</header>

@@ -1,0 +1,22 @@
+menus:
+	- 
+		name: Sign up for Private Beta
+    link: http://get.machinelabs.ai
+
+profile:
+	location: ChengDu, China
+	github: yumemor
+	#stackoverflow: 
+		#title: yumemor
+		#href: http://stackoverflow.com/users/5662132/yumemor
+	#organization: 组织/公司
+
+github: 
+	username: yumemor
+  popular_repos: [hexo-theme-primer]
+
+search: local #google｜local
+
+# 多说已关闭 目前只支持 disqus
+comment:
+	disqus_username: disqus_name

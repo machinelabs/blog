@@ -1,0 +1,21 @@
+<section class="container">
+    <div class="columns">
+        <div class="column">
+          <% page.posts.each(function(post){ %>
+              <%- partial('article', {post: post, index: true}) %>
+          <% }) %>
+        </div>
+    </div>
+
+    <% if (page.total > 1){ %>
+      <div class="pagination text-align">
+          <div class="btn-group">
+              <%- paginator({
+                  show_all: true,
+                  prev_text: '&laquo;',
+                  next_text: '&raquo;'
+              }) %>
+          </div>
+      </div>
+    <% } %>
+</section>
