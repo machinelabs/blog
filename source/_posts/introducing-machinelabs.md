@@ -37,13 +37,19 @@ With MachineLabs we are building a platform that tries to solve all the problems
 
 ### Run your experiments in the cloud
 
-MachineLabs enables you to write and execute your experiments right from within the browser! No installation hassle, no maintenance.
+MachineLabs enables you to **write and execute your experiments right from within the browser** - no installation hassle, no maintenance. Neural net training may run for hours or even several days and you'll be able to conveniently come back any time to check its status or watch it learning - right, in the browser! We make sure your experiments run on blazingly fast hardware to crack real world problems.
 
-Neural net training may run for hours or even several days and you'll be able to conveniently come back any time to check its status or watch it learning right in the browser as well!
+### Sharing is caring
 
-We make sure your experiments run on blazingly fast hardware to crack real world problems!
+We also believe that for the benefit of everyone it is crucial to accelerate knowledge sharing in the Machine Learning field. With MachineLabs, labs (that's what we call our experiments) can be forked and shared! Imagine having a lab with a steering prediction for a self-driving car right in your browser and have it forkable and hackable for everyone in your community!
 
-Of course this is just getting started, in the future you'll be able to:
+Just like people share code snippets and runnable examples for other languages and platforms on websites like Stack Overflow or GitHub, we want everyone to be able to share or embed labs on other websites to improve the overall accessibility of this exciting technology.
+
+### What else to come
+
+We will use this blog to keep you posted about latest updates and features landed in the MachineLabs code base so you have a chance to get a better picture of what's happening behind the scenes as the private beta is ongoing.
+
+In the future you'll be able to:
 
 - **Persist your trained model** - Labs will have access to a simple API to save trained models and other artifacts
 - **Build on top of other trained models** - Trained models that were exposed from another labs can be consumed to build on top of them
@@ -51,22 +57,11 @@ Of course this is just getting started, in the future you'll be able to:
 - **Visualizations** - Visualizations will make it easier to understand what's going on with your machine learning code
 
 
-
-### Sharing is caring
-
-We believe that for the benefit of everyone it is crucial to accelerate knowledge sharing in the Machine Learning field. With MachineLabs, labs (that's what we call our experiments) can be forked, shared! Imagine having a lab with a steering prediction for a self-driving car right in your browser and have it forkable and hackable for everyone.
-
-Just like people share code snippets and runnable examples for other languages and platforms on website like Stack Overflow or GitHub, we want everyone to be able to share or embed labs on other websites to improve the overall accessibility of this exciting technology.
-
 ### Request your private beta invite
 
-MachineLabs is in private beta right now so we can finish implementing the most important features with the feedback of selected people that are into Machine Learning before we roll it out for the public. Head over to [our registration page](http://get.machinelabs.ai), tell us about your background and why you want to use MachineLabs and request your personal privat beta invite!
+We launch our private beta very soon to finish implementing the most important features with the valuable feedback of selected people that are into Machine Learning, before we roll it out for the public. Head over to [our registration page](http://get.machinelabs.ai), tell us about your background and why you want to use MachineLabs and request your personal privat beta invite!
 
 Seats are limited!
 
-### What else to come
-
-We will use this blog to keep you recently posted about latest updates and features landed in MachineLabs' code base so you have a chance to get a better what's happening behind the scenes as the private beta is ongoing.
-
-In the meantime, make sure to follow us on [Twitter](http://twitter.com/machinelabs_ai) and don't miss any updates!
+Also, make sure to follow us on [Twitter](http://twitter.com/machinelabs_ai) and don't miss any updates!
 
