@@ -1,6 +1,6 @@
 ---
 title: Introducing MachineLabs - Machine Learning for everyone
-date: 2017-05-08 23:06:32
+date: 2017-05-11 17:35:32
 tags:
 ---
 
