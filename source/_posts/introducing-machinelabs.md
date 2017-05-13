@@ -4,7 +4,7 @@ date: 2017-05-11 17:35:32
 tags:
 ---
 
-We're working on something that will change the way we learn, share and explore Machine Learning - Introducing MachineLabs.
+> We're working on something that will change the way we learn, share and explore Machine Learning - Introducing MachineLabs.
 
 <!-- more -->
 

@@ -5,6 +5,10 @@ html, body {
   height: 100%;
 }
 
+.container {
+  width: 90%;
+}
+
 .ml-banner {
   background-color: #03a9f4;
   background: -webkit-linear-gradient(305deg,#0D47A1,#42A5F5);
@@ -12,8 +16,8 @@ html, body {
   background-repeat: no-repeat no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  padding-top: 4em;
-  padding-bottom: 3em;
+  padding-top: 3em;
+  padding-bottom: 2em;
 
   a {
     color: #fff;
@@ -25,10 +29,17 @@ html, body {
 
 .ml-logo {
   font-weight: 400;
-  font-size: 45px;
+  font-size: 40px;
+  float: none;
 
   span {
     font-weight: 500;
+  }
+}
+
+.site-header {
+  h1 {
+    float: none;
   }
 }
 
@@ -41,10 +52,10 @@ html, body {
 }
 
 .ml-nav {
-  float: right;
-  margin-top: -4em;
   a {
     text-decoration: none;
+    box-shadow: none;
+    vertical-align: initial;
   }
 }
 
@@ -64,6 +75,33 @@ html, body {
   background-repeat: no-repeat no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  padding-top: 4em;
-  padding-bottom: 3em;
+  padding-top: 3em;
+  padding-bottom: 2em;
+
+  .collection-header {
+    line-height: 1.2; 
+  }
+}
+
+.markdown-body {
+  font-size: 18px;
+  h3 {
+    line-height: 1.2;
+  }
+}
+
+@media (min-width: 650px) {
+  .ml-logo {
+    font-size: 45px;
+  }
+
+  .ml-banner {
+    padding-top: 4em;
+    padding-bottom: 3em;
+  }
+
+  .ml-nav {
+    margin-top: -4em;
+    float: right;
+  }
 }
