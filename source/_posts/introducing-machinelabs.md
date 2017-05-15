@@ -14,7 +14,7 @@ Companies such as Google, Tesla or Cruise are using Machine Learning to build se
 
 But there's a problem though...
 
-### Sience is hard
+### Science is hard
 
 Despite still being a very academical field, [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) and building our own neural networks isn't a very easy task. That's why frameworks like [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/) or [Theano](http://deeplearning.net/software/theano/) exist - to help making these things easier.
 
