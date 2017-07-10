@@ -1,6 +1,9 @@
 <header class="site-header navfixed-false">
   <div class="container">
-      <h1 class="ml-logo"><a href="<%- url_for() %>" title="<%= config.title %>">Machine<span>Labs</span> Blog</a></h1>
+      <a href="<%- url_for() %>" title="<%= config.title %>">
+        <img class="ml-logo" src="/images/machinelabs_logo_blue_black.svg" alt="MachineLabs logo">
+        <h2 class="ml-tagline dark">Machine Learning for everyone</h2>
+      </a>
       <nav class="site-header-nav" role="navigation">
         <% for (var nav in theme.menus) { %>
               <%

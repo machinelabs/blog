@@ -1,8 +1,10 @@
 <header class="ml-banner">
   <div class="container">
     <hgroup>
-      <h1 class="ml-logo"><a href="<%- url_for() %>" title="<%= config.title %>">Machine<span>Labs</span> Blog</a></h1>
-      <h2 class="ml-tagline">Machine Learning for everyone</h2>
+      <a href="<%- url_for() %>" title="<%= config.title %>">
+        <img class="ml-logo" src="/images/machinelabs_logo_white.svg" alt="MachineLabs logo">
+        <h2 class="ml-tagline">Machine Learning for everyone</h2>
+      </a>
     </hgroup>
       <nav class="ml-nav" role="navigation">
         <% for (var nav in theme.menus) { %>

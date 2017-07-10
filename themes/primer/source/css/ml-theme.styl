@@ -31,6 +31,8 @@ html, body {
   font-weight: 400;
   font-size: 40px;
   float: none;
+  margin-bottom: 0.4em;
+  display: block;
 
   span {
     font-weight: 500;
@@ -48,7 +50,11 @@ html, body {
   font-weight: 400;
   font-size: 1em;
   margin-top: -0.5em;
-  margin-left: 0.1em;
+  margin-left: 2.7em;
+
+  &.dark {
+    color: #333;
+  }
 }
 
 .ml-nav {
@@ -91,8 +97,18 @@ html, body {
 }
 
 @media (min-width: 650px) {
+  .site-header {
+    padding-top: 40px;
+  }
+
   .ml-logo {
     font-size: 45px;
+    height: 40px;
+    width: initial;
+  }
+
+  .ml-tagline {
+    margin-left: 3.7em;
   }
 
   .ml-banner {
