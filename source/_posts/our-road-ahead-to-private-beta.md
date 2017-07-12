@@ -5,7 +5,7 @@ tags: announcement
 ---
 
 
-It's been eight weeks since we [announced our upcoming service MachineLabs](/2017/05/08/introducing-machinelabs) to the world. We've opened the gates to [apply for the private beta](https://get.machinelabs.ai ) which is just around the corner. Today we would like to reflect on our recent progress and the road ahead.
+It's been eight weeks since we [announced our upcoming service MachineLabs](/2017/05/11/introducing-machinelabs) to the world. We've opened the gates to [apply for the private beta](https://get.machinelabs.ai ) which is just around the corner. Today we would like to reflect on our recent progress and the road ahead.
 
 <!-- more -->
 
