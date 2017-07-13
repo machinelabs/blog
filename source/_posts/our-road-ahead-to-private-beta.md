@@ -1,6 +1,6 @@
 ---
 title: Our road ahead to private beta
-date: 2017-07-12 21:00:00
+date: 2017-07-13 10:30:00
 tags: announcement
 ---
 
