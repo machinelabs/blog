@@ -4,13 +4,11 @@ date: 2017-08-22 15:30:00
 tags: announcement, features
 ---
 
-It's been less than two weeks since we've officially [opened up the gates for our **MachineLabs Private Beta Program**](/2017/08/10/launching-private-beta).
-
-Today we would like to reflect on the launch and show you what we've shipped since then.
+It's been less than two weeks since we've officially [opened up the gates for our **MachineLabs Private Beta Program**](/2017/08/10/launching-private-beta). Today we would like to reflect on the launch and show you what we've shipped since then.
 
 <!-- more -->
 
-## More users, more feedback
+### More users, more feedback
 
 A couple of months back when we started to work on [MachineLabs](https://machinelabs.ai) we developed the plan go through a private beta phase. The idea was to work with a handful of people to **gather feedback** and build a stable platform before we'll open up the gates for everyone.
 
@@ -21,7 +19,9 @@ We're excited to work with all of you and your feedback is incredibly valuable f
 Today we've already onboarded way more people than what we've had initially planned for our private beta. We'll continue to let it grow to a **couple of hundreds**, reacting to your feedback, fixing bugs and shipping features, eventually paving the way to a **public beta** in which everyone can instantly join without a waiting list.
 
 
-## New Features
+### New Features
+
+Of course, we kept on building and shipping new features. Here's what we've landed in the last two weeks.
 
 #### Pausing the output stream
 
@@ -52,10 +52,10 @@ With these two guarantees in mind we can continously throw away a large chunk of
 
 Apart from these two main features we've implemented plenty of stability improvements and fixes to ensure you'll have a smooth experience using [MachineLabs](https://machinelabs.ai).
 
-## What's next?
+### What's next?
 
 Of course, we're not done yet. Far from it. We're just warming up for the bigger features such us **stored outputs** or **GPU support**. Stay tuned.
 
-## How do I join the private beta?
+### How do I join the private beta?
 
 All you have to do to join the **MachineLabs Private Beta Program** is to head over to [MachineLabs](https://machinelabs.ai) and login with your GitHub account. This will automatically put you on the waiting list. We'll notify you as soon as we activate your account for private beta usage.
