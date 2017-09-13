@@ -32,7 +32,7 @@ You have unlimited internet access in your lab, which means you can access any d
 
 #### Can I save / download outputs?
 
-Not yet. Bummer we know. We are on it. For now, the training output is all that is preserved.
+~~Not yet. Bummer we know. We are on it. For now, the training output is all that is preserved.~~ Yes, all you have to do is saving your data to the lab's `./outputs` directory. For more information, read our dedicated [announcement](/2017/09/12/feature-update-saving-outputs-better-console-and-more/)!
 
 #### What's left?
 

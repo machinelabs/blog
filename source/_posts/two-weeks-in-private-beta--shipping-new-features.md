@@ -4,7 +4,7 @@ date: 2017-08-22 15:30:00
 tags: announcement, features
 ---
 
-It's been less than two weeks since we've officially [opened up the gates for our **MachineLabs Private Beta Program**](/2017/08/10/launching-private-beta). Today we would like to reflect on the launch and show you what we've shipped since then.
+It's been less than two weeks since we've officially [opened up the gates for our MachineLabs Private Beta Program](/2017/08/11/launching-private-beta). Today we would like to reflect on the launch and show you what we've shipped since then.
 
 <!-- more -->
 
