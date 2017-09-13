@@ -10,7 +10,7 @@ It's time for another MachineLabs feature update! Today we're excited to announc
 
 ### Saving and downloading trained models
 
-When training neural nets, we want to save the trained knowledge so we can use it later in applications or even take it as a starting point for another training. It was just a matter of time and we can't be more excited to say that MachineLabs finally supports saving and downloading of outputs, and it's super easy to do!
+When training neural nets, we often want to persist generated assets such as the trained model, graphics or logs. The trained model could later be used to build applications or as a starting point for another training. It was just a matter of time and we can't be more excited to say that MachineLabs finally supports saving and downloading of outputs, and it's super easy to do!
 
 Simply write all the data that should be persisted as part of an execution to a special `./outputs` directory. MachineLabs will take care of uploading the data to our storage and makes them available as downloads via the new outputs view.
 
