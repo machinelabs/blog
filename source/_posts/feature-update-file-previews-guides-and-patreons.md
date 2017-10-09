@@ -34,10 +34,18 @@ Consider this documentation as a living document. We'll continue to keep it up t
 
 ### Support the project on Patreon
 
-Shortly after we've [announced our mission](/2017/05/11/introducing-machinelabs/), we also [created a company](/2017/07/13/our-road-ahead-to-private-beta/) to show that we're very serious about what we want to achieve. Everything we do right now, building features, ensuring that services are available, writing guides and tutorials - all that is purely financed out of our own pockets.
+MachineLabs, Inc is a small, dedicated and 100 % bootstrapped company. Our main goal is to provide the community with better tools to move the whole Machine Learning ecosystem forward.
 
-We hope MachineLabs will be a profitable company in the future but as of today we need your support so we can work on implementing the features you need to do your experiments.
+We believe that independent and community-focused solutions are very much needed to democratize Machine Learning.
+
+Everything we do right now, building features, ensuring that services are available, writing guides and tutorials - all that is purely financed out of our own pockets.
+
+We hope MachineLabs will be a profitable company in the future but as of today we need your support so we can work on implementing the features you need to to make Machine Learning more fun.
 
 That's why we've created a Patreon page where you can pledge and support the development of MachineLabs. Check it out right here: [www.patreon.com/machinelabs](https://www.patreon.com/machinelabs).
+
+If you are a developer it makes sense to back this project to get rewarded with simpler, better tools and online resources for Machine Learning.
+
+If you are a company it makes even more sense to back this project as you are increasing your chances to find talents in the future.
 
 Thanks to everyone who supports us on this journey!
