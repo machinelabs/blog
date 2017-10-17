@@ -71,3 +71,4 @@ If you want to stay up to date with what we're working on, also make sure to fol
 
 As always, you can still join our private beta. All you have to do is to visit [machinelabs.ai](https://machinelabs.ai) and login with your GitHub account. We will put you in the next batch!
 
+{% patreon %}

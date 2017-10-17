@@ -65,9 +65,4 @@ As always, you can still join our private beta. All you have to do is to visit [
 
 Also, don't forget to [follow us on Twitter](https://twitter.com/machinelabs_ai) for recent updates.
 
-
-#### Like what you see? Support us on Patreon!
-
-MachineLabs, Inc is a small, dedicated and 100 % bootstrapped company. Our main goal is to provide the community with better tools to move the whole Machine Learning ecosystem forward.
-
-You can make a difference and support us on our mission, [become a Patreon](https://patreon.com/machinelabs)!
+{% patreon %}

@@ -59,3 +59,5 @@ Of course, we're not done yet. Far from it. We're just warming up for the bigger
 ### How do I join the private beta?
 
 All you have to do to join the **MachineLabs Private Beta Program** is to head over to [MachineLabs](https://machinelabs.ai) and login with your GitHub account. This will automatically put you on the waiting list. We'll notify you as soon as we activate your account for private beta usage.
+
+{% patreon %}
