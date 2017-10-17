@@ -59,3 +59,5 @@ As mentioned earlier, today we're celebrating our Private Beta Pre-Release. Now 
 ### You can still get an invite!
 
 If you're seeing MachineLabs for the first time today or simply haven't applied for our private beta yet, there's still a chance to get an invite! Head over to [get.machinelabs.ai](https://get.machinelabs.ai) and let us know why you want to use MachineLabs and why you'd be a good candidate.
+
+{% patreon %}

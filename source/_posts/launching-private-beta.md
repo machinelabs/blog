@@ -37,3 +37,5 @@ Yes, all you have to do is saving your data to the lab's `./outputs` directory. 
 #### What's left?
 
 We'd love to hear back from you. If there's anything you're missing or anything that looks wrong, please give us feedback by sending and email to [hello@machinelabs.ai](mailto:hello@machinelabs.ai) and please share your labs on Twitter, Facebook or wherever you want. Also if you send your labs to [@machinelabs_ai](https://twitter.com/machinelabs_ai) on Twitter, we'll make sure to retweet them!
+
+{% patreon %}
