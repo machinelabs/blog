@@ -30,9 +30,13 @@ Not yet. We are on it. Stay tuned.
 
 You have unlimited internet access in your lab, which means you can access any dataset you like. Check out the [examples in the Keras project](https://github.com/fchollet/keras/tree/master/examples) to get some inspiration.
 
+Check out our [article](/2017/09/26/a-neural-style-transfer-in-the-browser/) on building a Neural Style Transfer that demos MachineLabs *inputs* feature which makes downloading files really simple.
+
 #### Can I save / download outputs?
 
 Yes, all you have to do is saving your data to the lab's `./outputs` directory. For more information, read our dedicated [announcement](/2017/09/12/feature-update-saving-outputs-better-console-and-more/)!
+
+We also just added support for a new REST API to download such assets as further explained [here](/2017/10/16/new-rest-api-and-folder-support).
 
 #### What's left?
 
