@@ -41,7 +41,7 @@ This course will take you from zero to hero by making you **solve your first Mac
 
 While the course isn't yet 100 % finished, you can preorder it today and receive some exclusive benefits for early birds!
 
-- **70 % discount** compared to the regular price
+- **70% discount** compared to the regular price
 - exclusive access to the **Early Access Programm** starting in **April 2018**
 - **20 free monthly GPU hours** for an entire year
 
