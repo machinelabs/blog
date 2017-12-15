@@ -45,9 +45,8 @@ While the course isn't yet 100 % finished, you can preorder it today and receive
 - exclusive access to the **Early Access Programm** starting in **April 2018**
 - **20 free monthly GPU hours** for an entire year
 
+Notice that we won't charge you before the Early Access Preview begins!
 
 The course is on sale now with a huge preorder discount! Head over to the <a href="https://course.machinelabs.ai" title="Machine Learning Jump Start Course">course website</a> and **save 70% on your course**!
 
 
-
-{% patreon %}
