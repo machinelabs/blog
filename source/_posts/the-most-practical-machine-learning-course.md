@@ -6,24 +6,38 @@ tags: announcement, course
 
 At MachineLabs our main goal is to make Machine Learning more approachable to the regular developer and help fostering the entire Machine Learning ecosystem.
 
-There are at least two parts on this mission: Creating an environment that makes it easy to run Machine Learning experiments as well as making it simple to learn how to do Machine Learning at all.
+This misstion comes with two parts: Creating an environment that makes it easy to run Machine Learning experiments, and, making it simple to learn how to do Machine Learning in the first place.
 
-Today we are excited to launch the most practical Machine Learning online course.
+Today we are excited to announce the most practical <a href="https://course.machinelabs.ai" title="Machine Learning Jump Start">Machine Learning online course</a>.
 
 <!-- more -->
 
-### Machine Learning Jump Start
+### Machine Learning Jump Start - Online Course
 
-Over the last couple of months we've worked tirelessly to make MachineLabs the best platform to get started with Machine Learning.
+Over the last couple of months we've worked tirelessly to make MachineLabs the best platform to get started with Machine Learning. We are excited to see hundreds of users creating exciting experiments on our platform every day.
 
-We are excited to see hundreds of users creating exciting experiments on our platform every day.
+That said, there's a huge group of developers telling us that they'd love to get started with Machine Learning if it just wasn't that hard. A lot of people seem to be frustrated with the academic, Math-centered approach to Machine Learning that most courses still take today.
 
-That said, there's huge group of developers telling us that they'd love to get started with Machine Learning if it just wasn't that hard.
+Enter our **Machine Learning Jump Start** online course. This course is unlike any other Machine Learning course that we've found. It's from regular developers for regular developers. 
 
-A lot of people seem to be frustrated with the academic, Math-centered approach to Machine Learning that most courses still take today.
+To give you an idea, here's the project's teaser video!
 
-Enter our **Machine Learning Jump Start** online course. This course is unlike any other Machine Learning course that we've found. It's from regular developers for regular developers.
+<iframe style="width: 100%;" height="480" src="https://www.youtube.com/embed/bmWnan_Y5Y4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
+### What's inside?
 
+This course will take you from zero to hero by making you **solve your first Machine Learning task in just 20 lines of pure Python code**. After that the course dives into various topics such as:
+
+- ReLU activation functions, Max Pooling and Dropouts
+- Common Keras APIs to solve your ML tasks
+- Convolutional Networks
+- Recurrent Networks
+- Reinforcement learning
+
+... and much more!
+
+### Preorder now!
+
+The course is on sale now with a huge preorder discount! Head over to the <a href="https://course.machinelabs.ai" title="Machine Learning Jump Start Course">course website</a> and **save 70% on your course**!
 
 {% patreon %}
