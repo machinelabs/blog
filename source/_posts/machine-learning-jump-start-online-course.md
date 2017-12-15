@@ -4,9 +4,9 @@ date: 2017-12-15 17:46:00
 tags: announcement, course
 ---
 
-At MachineLabs our main goal is to make Machine Learning more approachable to the regular developer.
+At MachineLabs our main goal is to make Machine Learning more approachable for all kind of different developers.
 
-This mission comes with two parts: Creating an environment that makes it easy to run Machine Learning experiments, and, making it simple to learn how to do Machine Learning in the first place.
+This mission comes in two parts: Creating an environment that makes it easy to run Machine Learning experiments, and, making it simple to learn how to do Machine Learning in the first place.
 
 Today we are excited to announce the most practical <a href="https://course.machinelabs.ai" title="Machine Learning Jump Start">Machine Learning online course</a>.
 
