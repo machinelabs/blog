@@ -1,12 +1,12 @@
 ---
 title: Machine Learning Jump Start Online Course
-date: 2017-09-26 17:46:00
+date: 2017-12-15 17:46:00
 tags: announcement, course
 ---
 
-At MachineLabs our main goal is to make Machine Learning more approachable to the regular developer and help fostering the entire Machine Learning ecosystem.
+At MachineLabs our main goal is to make Machine Learning more approachable to the regular developer.
 
-This misstion comes with two parts: Creating an environment that makes it easy to run Machine Learning experiments, and, making it simple to learn how to do Machine Learning in the first place.
+This mission comes with two parts: Creating an environment that makes it easy to run Machine Learning experiments, and, making it simple to learn how to do Machine Learning in the first place.
 
 Today we are excited to announce the most practical <a href="https://course.machinelabs.ai" title="Machine Learning Jump Start">Machine Learning online course</a>.
 
@@ -28,7 +28,8 @@ To give you an idea, here's the project's teaser video!
 
 This course will take you from zero to hero by making you **solve your first Machine Learning task in just 20 lines of pure Python code**. After that the course dives into various topics such as:
 
-- ReLU activation functions, Max Pooling and Dropouts
+- Machine Learning Basics
+- Activation functions, Max Pooling and Dropouts
 - Common Keras APIs to solve your ML tasks
 - Convolutional Networks
 - Recurrent Networks
@@ -38,6 +39,15 @@ This course will take you from zero to hero by making you **solve your first Mac
 
 ### Preorder now!
 
+While the course isn't yet 100 % finished, you can preorder it today and receive some exclusive benefits for early birds!
+
+- **70 % discount** compared to the regular price
+- exclusive access to the **Early Access Programm** starting in **April 2018**
+- **20 free monthly GPU hours** for an entire year
+
+
 The course is on sale now with a huge preorder discount! Head over to the <a href="https://course.machinelabs.ai" title="Machine Learning Jump Start Course">course website</a> and **save 70% on your course**!
+
+
 
 {% patreon %}
