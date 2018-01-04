@@ -1,6 +1,6 @@
 ---
 title: Shopware becomes Gold Sponsor
-date: 2018-01-03 14:00:00
+date: 2018-01-04 14:00:00
 tags: announcement, collaboration
 ---
 
@@ -16,7 +16,7 @@ That’s why we started a [crowd funding campaign on Patreon](https://www.patreo
 
 Today, we couldn’t be more excited to unveil that **[Shopware](https://en.shopware.com/) has become a Gold Sponsor** to support us on our mission.
 
-<a href="https://shopware.com">
+<a title="Shopware" href="https://shopware.com">
 <img src="https://de.shopware.com/media/image/shopware_logo_blue.png" title="Shopware Logo" alt="Shopware Logo">
 </a>
 Shopware is one of the world’s leading e-commerce platforms and understands the important role of Machine Learning in our world today. In fact, not only does Shopware become a patron of MachineLabs, we’ll also be working closely together to make sure MachineLabs becomes a solid platform for advanced Machine Learning use cases.
