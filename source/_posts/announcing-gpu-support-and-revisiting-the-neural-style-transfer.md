@@ -107,7 +107,7 @@ parameters:
     - pass-as: --batch-size=4
     - pass-as: --epochs=2
 ```
-You can [read more about outputs](https://blog.machinelabs.ai/2017/09/13/feature-update-saving-outputs-better-console-and-more/) and [the REST API](https://blog.machinelabs.ai/2017/10/16/new-rest-api-and-folder-support/) in our past announcement posts.
+You can [read more about outputs](/2017/09/13/feature-update-saving-outputs-better-console-and-more/) and [the REST API](/2017/10/16/new-rest-api-and-folder-support/) in our past announcement posts.
 
 Last but not least, we need to enable our brand new GPU support and pick a GPU enabled docker image to base our training on.
 
