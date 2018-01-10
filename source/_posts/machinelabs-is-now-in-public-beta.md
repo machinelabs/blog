@@ -36,7 +36,7 @@ While this is something we're actively working on pretty much every day, it's st
 
 One of the things we've done is replacing our existing editor experience with the [Monaco Editor](https://github.com/Microsoft/monaco-editor), which is exactly the same editor that is also used in Microsoft's [Visual Code](https://code.visualstudio.com/). We believe this editor experience is much better in terms of performance, as well as usability. In fact this mean we'll get things like mulitple cursor support and variable renaming out-of-the-box. We'll also add things like real-time code completion in the near future!
 
-Another thing we're working on right now (seriously, it's right around the corner) is a CLI so you can take your existing Machine Learning projects and run it on our GPU accelerated could right within MachineLabs!
+Another thing we're working on right now (seriously, it's right around the corner) is a CLI so you can take your existing Machine Learning projects and run it on our GPU accelerated cloud right within MachineLabs!
 
 #### Pro Features for Patreon supporters
 
