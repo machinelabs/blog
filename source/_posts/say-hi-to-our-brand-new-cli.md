@@ -78,5 +78,7 @@ Isn't that cool? We can now follow a workflow that easily keeps a local program 
 
 There's still more to learn about the CLI, so feel free to head over to the official documentation at [docs.machinelabs.ai](https://docs.machinelabs.ai).
 
+Also, we've created a video for you to show [what the CLI looks like in action]([https://www.youtube.com/watch?v=aMfbTexYnFE)!
+
 
 {% patreon %}
