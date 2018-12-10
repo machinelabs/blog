@@ -1,12 +1,12 @@
 ---
-title: First chapter of Machine Learning Jump Start will be free
+title: First chapter of Machine Learning Jump Start is now available
 date: 2018-10-17 11:00:00
 tags: announcement, course
 ---
 
-It's been some month since we've [last shared an update](/2017/12/15/machine-learning-jump-start-online-course/) about our upcoming [Machine Learning Jump Start](https://course.machinelabs.ai)
+It's been some months since we've [last shared an update](/2017/12/15/machine-learning-jump-start-online-course/) about our upcoming [Machine Learning Jump Start](https://course.machinelabs.ai)
 
-Today we are excited to announce that we have finished all the videos of the **first chapter** and it's now live and availble to all of you.
+Today we are excited to announce that we have finished all the videos of the **first chapter** and it's now live and available to all of you.
 
 The first chapter is all about understanding the motivation behind Machine Learning as well as elaborating on the differences between _good old fashioned_ AI aka rule-based systems and modern tools for AI such as neural networks. In the end we'll look at the different types of Machine Learning so that we are equipped with some basic knowledge before we dive deep into the practical parts of this course.
 
