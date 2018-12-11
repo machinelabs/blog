@@ -8,6 +8,8 @@ It's been some months since we've [last shared an update](/2017/12/15/machine-le
 
 Today we are excited to announce that we have finished all the videos of the **first chapter** and it's now live and available to all of you.
 
+<!-- more -->
+
 The first chapter is all about understanding the motivation behind Machine Learning as well as elaborating on the differences between _good old fashioned_ AI aka rule-based systems and modern tools for AI such as neural networks. In the end we'll look at the different types of Machine Learning so that we are equipped with some basic knowledge before we dive deep into the practical parts of this course.
 
 The first chapter contains 4 videos:
